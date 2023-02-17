@@ -1,2 +1,2 @@
 # todo-list
-a basic to-do list using javascript, html and css
+A basic to-do list using html, js and css that enables the user to add or delete a task 
